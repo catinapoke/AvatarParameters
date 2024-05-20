@@ -31,7 +31,7 @@
     git clone https://github.com/catinapoke/AvatarParameters
     ```
 2. Скачайте [Deep3DFaceRecon Pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch) в папку Deep3DFaceRecon и настройте по инструкции указанной в репозитории
-3. [Подгрузите модель EfficientNet(нужна ссылка на Яндекс Диск)](), которая была натренированна в ходе данной научной работы
+3. [Подгрузите модель EfficientNet](https://disk.yandex.ru/d/NeidCuhrbxuwJg), которая была натренированна в ходе данной научной работы
 3. Скачайте [Color Invariant Skin Segmentation](https://github.com/hanxumartin/color-invariant-skin-segmentation) в соответсвующую папку, но без перезаписи файлов
 4. Скачайте [Blender](https://www.blender.org/), он пригодиться для конвертации модели после работы Deep3DFaceRecon Pytorch
 5. Скачайте [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) и создайте пустой проект
